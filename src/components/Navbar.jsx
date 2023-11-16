@@ -7,9 +7,9 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false)
   return (
     <div className={`bg-white w-full flex p-6 justify-between items-center navbar fixed top-0 z-10`}>
-      <div className='border-2 border-amber-400 flex justify-center items-center ml-14 p-3 rotate-45'>
+      <div className='border-2 border-amber-400 flex justify-center items-center ml-14 p-2 rotate-45'>
         <a href='#home' className='cursor-pointer'>
-        <h1 className='font-bold grayscale text-gray-600 rotate-[-90]'>Blog</h1>
+        <h1 className='font-bold grayscale text-gray-600 rotate-45'>Blog</h1>
          <h1 className='font-bold text-[20px] text-gray-800'>Blog</h1>
       </a>
       </div>

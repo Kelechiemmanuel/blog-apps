@@ -4,7 +4,7 @@ import { book3, books, laptop, reading, book2, book4 } from '../assets'
 
 export const Business = () => {
   return (
-    <section id='experience' className={`mt-10 px-10 ${styles.flexCenter}`}>
+    <section id='blogs' className={`mt-10 px-10 ${styles.flexCenter}`}>
          
     <div className='flex lg:flex-row flex-col'> 
         
