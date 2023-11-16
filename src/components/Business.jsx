@@ -16,7 +16,7 @@ export const Business = () => {
         <div className='bg-gray-900'>
             <img src={book3} alt="icon1" className='w-[100%] h-[100%]' />
         </div>
-          <h1 className='mb-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Motion Graphics</h1>
+          <h1 className='mt-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Motion Graphics</h1>
           <p className={`${styles.paragraph} text-center text-black`}>
           Motion graphics designers aim to engage viewers, convey information clearly, and leave a lasting impression.
           </p>
@@ -30,7 +30,7 @@ export const Business = () => {
         <div className='bg-gray-900'>
             <img src={books} alt="icon1" className='w-[100%] h-[100%]' />
         </div>
-          <h1 className='mb-4 font-bold text-[25px] text-black'>Responsive Design</h1>
+          <h1 className='mt-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Responsive Design</h1>
           <p className={`${styles.paragraph} text-center text-black`}>
             Responsive design is an approach to web design and development that aims to make websites and web applications 
           </p>
@@ -47,7 +47,7 @@ export const Business = () => {
         <div className='bg-gray-900'>
             <img src={reading} alt="icon1" className='w-[100%] h-[100%]' />
         </div>
-          <h1 className='mb-4 font-bold text-[25px] text-black'>Motion Graphics</h1>
+          <h1 className='mt-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Motion Graphics</h1>
           <p className={`${styles.paragraph} text-center text-black`}>
           Motion graphics designers aim to engage viewers, convey information clearly, and leave a lasting impression.
           </p>
@@ -61,7 +61,7 @@ export const Business = () => {
         <div className='bg-gray-900'>
             <img src={laptop} alt="icon1" className='w-[100%] h-[100%]' />
         </div>
-          <h1 className='mb-4 font-bold text-[25px] text-black'>Responsive Design</h1>
+          <h1 className='mt-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Responsive Design</h1>
           <p className={`${styles.paragraph} text-center text-black`}>
             Responsive design is an approach to web design and development that aims to make websites and web applications 
           </p>
@@ -78,7 +78,7 @@ export const Business = () => {
         <div className='bg-gray-900'>
             <img src={book2} alt="icon1" className='w-[100%] h-[100%]' />
         </div>
-          <h1 className='mb-4 font-bold text-[25px] text-black'>Motion Graphics</h1>
+          <h1 className='mt-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Motion Graphics</h1>
           <p className={`${styles.paragraph} text-center text-black`}>
           Motion graphics designers aim to engage viewers, convey information clearly, and leave a lasting impression.
           
@@ -93,7 +93,7 @@ export const Business = () => {
         <div className='bg-gray-900'>
             <img src={book4} alt="icon1" className='w-[100%] h-[100%]' />
         </div>
-          <h1 className='mb-4 font-bold text-[25px] text-black'>Responsive Design</h1>
+          <h1 className='mt-4 text-black font-poppins font-bold sm:text-[20px] text-[22px] sm:leading-[40.8px] leadig-[65px]'>Responsive Design</h1>
           <p className={`${styles.paragraph} text-center text-black`}>
             Responsive design is an approach to web design and development that aims to make websites and web applications 
          
