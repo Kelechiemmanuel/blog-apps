@@ -5,6 +5,8 @@ import book4 from "./book4.jpg";
 import books from "./books.jpg";
 import laptop from "./laptop.jpg";
 import reading from "./reading.jpg";
+import menu from "./menu.svg";
+import close from "./close.svg";
 
 
 
@@ -13,6 +15,8 @@ import reading from "./reading.jpg";
 export{
     backgroundimg,
     book3,
+    menu,
+    close,
     book2,
     book4,
     books,

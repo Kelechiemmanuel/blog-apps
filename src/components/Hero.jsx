@@ -15,7 +15,7 @@ const Hero = () => {
             <div className={`${styles.flexCenter} rounded-full`}
             >
                 <h1 className='flex-1 justify-center  font-poppins font-bold sm:text-[52px] text-[22px] text-gray-400 sm:leading-[80.8px] leadig-[75px]'>
-                My<span className='text-amber-400'> Blogs</span>
+                My<span className='text-amber-400'> Blog</span>
                 </h1>
             </div>
             <div className='text-white font-poppins font-bold sm:text-[17px] text-[8px]'>
